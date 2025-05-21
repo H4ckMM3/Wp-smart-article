@@ -1,14 +1,3 @@
-<?php
-/**
- * The template for displaying archive pages
- *
- * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
- *
- * @package editvetklinikabars
- */
-
-get_header();
-?>
 
 	<main id="primary" class="ps-site-main">
 		<section class="first_screen first_screen-default" style="background-image: url('<?php echo get_template_directory_uri(); ?>/assets/images/4f11f305837eaa2cdfbd2da4984da5e1.png');">
